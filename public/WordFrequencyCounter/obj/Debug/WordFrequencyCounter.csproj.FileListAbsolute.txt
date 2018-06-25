@@ -1,0 +1,12 @@
+c:\users\khans\documents\visual studio 2015\Projects\WordFrequencyCounter\WordFrequencyCounter\bin\Debug\WordFrequencyCounter.exe.config
+c:\users\khans\documents\visual studio 2015\Projects\WordFrequencyCounter\WordFrequencyCounter\bin\Debug\WordFrequencyCounter.exe
+c:\users\khans\documents\visual studio 2015\Projects\WordFrequencyCounter\WordFrequencyCounter\bin\Debug\WordFrequencyCounter.pdb
+c:\users\khans\documents\visual studio 2015\Projects\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\WordFrequencyCounter.csprojResolveAssemblyReference.cache
+c:\users\khans\documents\visual studio 2015\Projects\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\WordFrequencyCounter.exe
+c:\users\khans\documents\visual studio 2015\Projects\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\WordFrequencyCounter.pdb
+D:\Rumman Work\WordFrequencyCounter\WordFrequencyCounter\bin\Debug\WordFrequencyCounter.exe.config
+D:\Rumman Work\WordFrequencyCounter\WordFrequencyCounter\bin\Debug\WordFrequencyCounter.exe
+D:\Rumman Work\WordFrequencyCounter\WordFrequencyCounter\bin\Debug\WordFrequencyCounter.pdb
+D:\Rumman Work\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\WordFrequencyCounter.csprojResolveAssemblyReference.cache
+D:\Rumman Work\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\WordFrequencyCounter.exe
+D:\Rumman Work\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\WordFrequencyCounter.pdb

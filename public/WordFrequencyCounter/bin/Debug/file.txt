@@ -1,0 +1,1 @@
+I'm trying to read a word document using C#. I am able to get all text but I want to be able to read line by line and store in a list and bind to a gridview. Currently my code returns a list of one item only with all text (not line by line as desired). I'm using the Microsoft.Office.Interop.Word library to read the file. Below is my code till now:
